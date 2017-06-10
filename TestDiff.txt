@@ -1,2 +1,0 @@
-This is the sample file to add value
-Adding one new Line to test git diff
